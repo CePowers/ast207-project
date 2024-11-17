@@ -11,7 +11,7 @@ The main way to observe a black hole is to observe the material around it. The m
 
 This image is relatively new, so before an image like this could be captured there were other observations that led astronomers to believe in the existence of black holes. One of these observations is Tidal Destructive Events or TDE. These events occur when a star is ripped apart by a black hole. These appear as large flares of light that can be observed in the optical, ultraviolet, and x-ray spectra.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/495OIRMV-1c&t=19s" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/495OIRMV-1c" 
         title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen></iframe>
