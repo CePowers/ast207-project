@@ -1,5 +1,5 @@
 # Scientific Evidence For Black Holes
-
+<img src="{{ site.baseurl }}/assets/images/BH_Accretion_Disk_Sim_360_4k_Prores.00001_print.jpg" alt="Image of accretion disk around black hole" />
 ## What are Black Holes?
 Black holes are objects where the matter is packed so densely together and gravity is so strong that the escape velocity within the event horizon is faster than the speed of light, so no light can escape.
 
@@ -38,3 +38,4 @@ https://www.eso.org/public/videos/eso0226a/
 https://news.uchicago.edu/explainer/black-holes-explained#:~:text=We%20can%20find%20black%20holes,that%20black%20hole%20must%20be.
 https://news.mit.edu/2024/using-wobbling-stellar-material-astronomers-measure-supermassive-black-hole-spin-0522#:~:text=In%20a%20study%20appearing%20today,following%20a%20tidal%20disruption%20event.
 https://www.space.com/15421-black-holes-facts-formation-discovery-sdcmp.html
+https://svs.gsfc.nasa.gov/gallery/black-holes/
