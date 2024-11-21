@@ -26,5 +26,15 @@ Additionally, by studying the matter around the black hole, we can conclude that
 
 
 ## Assessment
+I believe that based on the observations, the black hole model is very believable. Black holes explain both the motions of stars around unseen objects as well as the source of x-rays observed x-rays. They also explain why they are not visible to us. Additionally as our observational tools continue to improve and we are able to see the effect of these objects more clearly, the observations continue to match the model. For instance, the first image of a black hole was not released until 2019 but they were first considered in 1915, over a hundred years before. If the model was completely wrong I doubt it would have lasted this long, and there would have been some observations suggesting a different type of object or model. Although there are still some things we do not know about black holes, such as what is inside the event horizon, I believe the current model accurately explains the observational data we have that has no other explanation.
 
 ## Sources
+https://webbtelescope.org/contents/articles/how-do-we-know-there-are-black-holes
+https://science.nasa.gov/resource/first-image-of-a-black-hole/
+https://www.nasa.gov/missions/chandra/a-giant-black-hole-destroys-a-massive-star/#:~:text=Astronomers%20have%20found%20many%20examples,star's%20debris%20is%20heated%20up.
+https://www.cfa.harvard.edu/research/topic/black-holes
+https://www.cfa.harvard.edu/news/supermassive-black-hole-spins-super-fast
+https://www.eso.org/public/videos/eso0226a/
+https://news.uchicago.edu/explainer/black-holes-explained#:~:text=We%20can%20find%20black%20holes,that%20black%20hole%20must%20be.
+https://news.mit.edu/2024/using-wobbling-stellar-material-astronomers-measure-supermassive-black-hole-spin-0522#:~:text=In%20a%20study%20appearing%20today,following%20a%20tidal%20disruption%20event.
+https://www.space.com/15421-black-holes-facts-formation-discovery-sdcmp.html
