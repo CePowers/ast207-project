@@ -1,3 +1,7 @@
 theme: jekyll-theme-modernist
 title: AST 207 Final Project
 baseurl: "/ast207-project"
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
