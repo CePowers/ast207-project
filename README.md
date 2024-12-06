@@ -15,7 +15,7 @@ The main way to observe a black hole is to observe the material around it. The m
 
 This image is relatively new, so before an image like this could be captured there were other observations that led astronomers to believe in the existence of black holes. One of these observations is Tidal Destructive Events or TDE. These events occur when a star gets too close to a black hole and the tidal force of the black hole is larger than the force of gravity holding the star together and the star is ripped apart in a process called spaghettification. These appear as large flares of light that can be observed in the optical, ultraviolet, and x-ray spectra. Some of the material from the destroyed star gets added to the accretion disk allowing more visible material to be studied around the black hole, while the rest of the material escapes. The video below shows an animation of one of these events occurring.
 <video width="600" controls>
-    <source src="/assets/images/TDE_animation_HQ.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/images/TDE_animation_HQ.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -50,3 +50,5 @@ https://news.uchicago.edu/explainer/black-holes-explained#:~:text=We%20can%20fin
 https://news.mit.edu/2024/using-wobbling-stellar-material-astronomers-measure-supermassive-black-hole-spin-0522#:~:text=In%20a%20study%20appearing%20today,following%20a%20tidal%20disruption%20event.
 https://www.space.com/15421-black-holes-facts-formation-discovery-sdcmp.html
 https://svs.gsfc.nasa.gov/gallery/black-holes/
+https://science.nasa.gov/resource/tidal-disruption-event/
+https://www.astronomy.com/science/a-brief-history-of-black-holes/
