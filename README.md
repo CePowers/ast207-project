@@ -1,3 +1,7 @@
+<script type="text/javascript" id="MathJax-script" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
+</script>
+
 # Scientific Evidence For Black Holes
 <img src="{{ site.baseurl }}/assets/images/BH_Accretion_Disk_Sim_360_4k_Prores.00001_print.jpg" alt="Image of accretion disk around black hole" />
 ## What are Black Holes?
